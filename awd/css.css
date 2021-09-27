@@ -1,0 +1,47 @@
+.center {
+    display: block;
+    margin: auto;
+    width: 0%;
+    position: absolute;
+    top: 18%;
+    left: 39%;
+  }
+
+  body {
+    background-color: rgb(27, 27, 27);
+  }
+  
+ 
+.text {
+border: 5px solid rgb(185, 3, 73);
+justify-content: center;
+display: flex;
+color: white;
+font-size:10px;
+}
+
+ #bottom {
+  position: absolute;
+  bottom: 2%;
+  left: 48%;
+  width: 100%;
+  color: white;
+  font-size: 10px;
+
+  } 
+
+.text3 {
+  text-align: center;
+  border: transparent;
+  font-size: 11px;
+  color:rgb(21, 230, 38)
+} 
+
+#audio {
+  position: absolute;
+  bottom: 10%;
+  left: 42%;
+  color: rgb(99, 64, 32);
+
+}
+
